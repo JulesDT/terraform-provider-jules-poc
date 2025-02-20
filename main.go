@@ -10,7 +10,7 @@ import (
 
 	"github.com/hashicorp/terraform-plugin-framework/providerserver"
 
-	"terraform-provider-hashicups/internal/provider"
+	"terraform-provider-jules-poc/internal/provider"
 )
 
 var (
